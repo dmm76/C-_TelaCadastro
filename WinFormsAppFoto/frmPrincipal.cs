@@ -15,7 +15,7 @@ namespace WinFormsAppFoto
             try
             {
                 // Testa a conexão
-                using (MySqlConnection con = new MySqlConnection("server=127.0.0.1;port=3306;database=aula;user id=root;password=Debase33@;charset=utf8"))
+                using (MySqlConnection con = new MySqlConnection("server=127.0.0.1;port=3306;database=aula;user id=root;password=;charset=utf8"))
                 {
                     con.Open();
                     if (con.State == ConnectionState.Open)

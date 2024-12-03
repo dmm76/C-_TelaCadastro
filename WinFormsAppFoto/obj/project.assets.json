@@ -251,11 +251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WinFormsAppFotoEditado\\WinFormsAppFoto\\WinFormsAppFoto.csproj",
+      "projectUniqueName": "C:\\Users\\Extreme\\Documents\\GitHub\\C-_TelaCadastro\\WinFormsAppFoto\\WinFormsAppFoto.csproj",
       "projectName": "WinFormsAppFoto",
-      "projectPath": "C:\\WinFormsAppFotoEditado\\WinFormsAppFoto\\WinFormsAppFoto.csproj",
+      "projectPath": "C:\\Users\\Extreme\\Documents\\GitHub\\C-_TelaCadastro\\WinFormsAppFoto\\WinFormsAppFoto.csproj",
       "packagesPath": "C:\\Users\\Extreme\\.nuget\\packages\\",
-      "outputPath": "C:\\WinFormsAppFotoEditado\\WinFormsAppFoto\\obj\\",
+      "outputPath": "C:\\Users\\Extreme\\Documents\\GitHub\\C-_TelaCadastro\\WinFormsAppFoto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
