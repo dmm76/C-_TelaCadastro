@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WinFormsAppFoto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14F6195-F287-4852-9C04-66BB481CF3C7}|WinFormsAppFoto.csproj|c:\\winformsappfoto\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14F6195-F287-4852-9C04-66BB481CF3C7}|WinFormsAppFoto.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14F6195-F287-4852-9C04-66BB481CF3C7}|WinFormsAppFoto.csproj|c:\\winformsappfoto\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F14F6195-F287-4852-9C04-66BB481CF3C7}|WinFormsAppFoto.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14F6195-F287-4852-9C04-66BB481CF3C7}|WinFormsAppFoto.csproj|c:\\winformsappfoto\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14F6195-F287-4852-9C04-66BB481CF3C7}|WinFormsAppFoto.csproj|solutionrelative:foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{17190a8b-df25-30bf-93e3-9d5ddfe5fef9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{67d15d2e-5bac-311f-82c3-d49feab601fd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\WinFormsAppFoto\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "frmPrincipal.cs",
+              "ToolTip": "C:\\WinFormsAppFoto\\frmPrincipal.cs",
+              "RelativeToolTip": "frmPrincipal.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:16:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "C:\\WinFormsAppFoto\\Foto.cs",
+              "RelativeDocumentMoniker": "Foto.cs",
+              "ToolTip": "C:\\WinFormsAppFoto\\Foto.cs",
+              "RelativeToolTip": "Foto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:16:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\WinFormsAppFoto\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "frmPrincipal.cs",
+              "ToolTip": "C:\\WinFormsAppFoto\\frmPrincipal.cs [Projeto]",
+              "RelativeToolTip": "frmPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:16:20.077Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.exe
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.deps.json
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.runtimeconfig.json
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.frmPrincipal.resources
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.CopyComplete
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\refint\WinFormsAppFoto.dll
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\ref\WinFormsAppFoto.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.AssemblyReference.cache
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.frmPrincipal.resources
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.GenerateResource.cache
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfoInputs.cache
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfo.cs
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.CoreCompileInputs.cache
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\refint\WinFormsAppFoto.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.exe
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.deps.json
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.runtimeconfig.json
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinForms.351F9519.Up2Date
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.genruntimeconfig.cache
+C:\Users\Extreme\Desktop\Senai\Aula 21112024-20241128T131052Z-001\Aula 21112024\Aula21112024\Aula21112024\WinFormsAppFoto\obj\Debug\net7.0-windows\ref\WinFormsAppFoto.dll
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.exe
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.deps.json
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.runtimeconfig.json
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\WinFormsAppFoto\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.AssemblyReference.cache
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.frmPrincipal.resources
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.GenerateResource.cache
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfoInputs.cache
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfo.cs
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.CoreCompileInputs.cache
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\refint\WinFormsAppFoto.dll
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.genruntimeconfig.cache
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\ref\WinFormsAppFoto.dll
+C:\WinFormsAppFoto\obj\Debug\net7.0-windows\WinForms.351F9519.Up2Date
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.exe
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.deps.json
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.runtimeconfig.json
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.AssemblyReference.cache
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.frmPrincipal.resources
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.GenerateResource.cache
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfoInputs.cache
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.AssemblyInfo.cs
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.csproj.CoreCompileInputs.cache
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinForms.351F9519.Up2Date
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\refint\WinFormsAppFoto.dll
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.pdb
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\WinFormsAppFoto.genruntimeconfig.cache
+C:\Users\Extreme\Documents\GitHub\C-_TelaCadastro\WinFormsAppFoto\obj\Debug\net7.0-windows\ref\WinFormsAppFoto.dll
