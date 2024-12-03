@@ -131,6 +131,10 @@ namespace WinFormsAppFoto
                 // Recarrega os dados no DataGridView
                 CarregarDados();
             }
+            catch (IOException ioEx)
+            {
+                MessageBox.Show($"Erro de arquivo: {ioEx.Message}. Certifique-se de que o arquivo não está em uso.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
                 MessageBox.Show($"Erro ao editar o registro: {ex.Message}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -303,6 +307,20 @@ namespace WinFormsAppFoto
             }
         }
 
-        
+        private void CarregarImagem(string caminho)
+        {
+            if (System.IO.File.Exists(caminho))
+            {
+                using (FileStream fs = new FileStream(caminho, FileMode.Open, FileAccess.Read))
+                {
+                    pbxImagem.Image = Image.FromStream(fs);
+                }
+            }
+            else
+            {
+                pbxImagem.Image = null;
+            }
+        }
+
     }
 }
