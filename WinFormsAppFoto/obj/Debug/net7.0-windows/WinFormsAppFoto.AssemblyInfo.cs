@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppFoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f905ae8fa56fed212a8037255506aa6aedce6554")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842c0531830d53a9ca2ffe596608ae5a7226c528")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppFoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppFoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
