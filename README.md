@@ -4,11 +4,11 @@
 
 * git push
 * git pull
-*
+
 ## Sequência para verificar antes de fazer
 ## um pull de um repositorio remoto
 ## para a maquina local
-* 
+
 * git fetch - verificar antes
 * git diff origin main - efetivamente mostra a linha ou linhas alteradas
 * git pull - atualiza o repo local com as informaçoes do repo remoto
